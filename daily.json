@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "name": "Ember Gathering ＜Random Class＞",
+      "drop": "Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker Experience Cards Random"
+    },
+    {
+      "name": "Saber Training Ground",
+      "drop": "Saber Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "Ember Gathering ＜Lancer & Assassin＞",
+      "drop": "Lancer, Assassin, Berserker Experience Cards"
+    },
+    {
+      "name": "Archer Training Ground",
+      "drop": "Archer Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "Ember Gathering ＜Saber & Rider＞",
+      "drop": "Saber, Rider, Berserker Experience Cards"
+    },
+    {
+      "name": "Lancer Training Ground",
+      "drop": "Lancer Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "Ember Gathering ＜Archer & Caster＞",
+      "drop": "Archer, Caster, Berserker Experience Cards"
+    },
+    {
+      "name": "Berserker Training Ground",
+      "drop": "Berserker Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "Ember Gathering ＜Lancer & Assassin＞",
+      "drop": "Lancer, Assassin, Berserker Experience Cards"
+    },
+    {
+      "name": "Rider Training Ground",
+      "drop": "Rider Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "Ember Gathering ＜Saber & Rider＞",
+      "drop": "Saber, Rider, Berserker Experience Cards"
+    },
+    {
+      "name": "Caster Training Ground",
+      "drop": "Caster Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "Ember Gathering ＜Archer & Caster＞",
+      "drop": "Archer, Caster, Berserker Experience Cards"
+    },
+    {
+      "name": "Assassin Training Ground",
+      "drop": "Assassin Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "Open the Treasury's Door",
+      "drop": "QP"
+    }
+  ]
+]
