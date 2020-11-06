@@ -1,0 +1,1 @@
+# FGO-Daily-JSON
